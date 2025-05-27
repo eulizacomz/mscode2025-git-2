@@ -1,0 +1,60 @@
+body {
+    background-color: rgb(247, 184, 102);
+}
+
+h1 {
+    color: rgb(74, 41, 0);
+    font-size: 42px;
+font-family: Copperplate;
+}
+
+
+.cat{
+
+    top: 60%;
+}
+.categoria{
+    text-align: center;
+    list-style-position: inside;
+}
+
+.buscar{
+text-align: center;
+
+}
+
+#imagem{
+margin: 0;
+border-radius: 30%;
+}
+
+.choco{
+    font-size: 48px;
+    font-family: Brush Script;
+    color: rgb(34, 20, 1);
+}
+
+.botao{
+    background-color: rgb(135, 83, 4);
+    color: rgb(34, 25, 1);
+    border-radius: 10%;
+}
+
+body{
+    text-align: center;
+}
+
+table{
+    margin: auto;
+    background-color: rgb(153, 53, 33);
+    color: rgb(218, 139, 55);
+}
+textarea{
+    background-color: rgb(255, 226, 159);
+    border-radius: 5%;
+}
+
+.redes{
+    font-family: Copperplate;
+
+}
