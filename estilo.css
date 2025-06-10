@@ -8,11 +8,43 @@ h1 {
 font-family: Copperplate;
 }
 
+header{
+    
+    display: flex;
+   justify-content: space-between;
+   align-items: center;
+   background-color: rgb(62, 25, 2);
+  padding:  30px 100px;
+  color: rgb(232, 154, 60);
 
-.cat{
-
-    top: 60%;
 }
+
+
+*{
+   margin: 0%;
+   box-sizing: border-box;
+}
+
+.texto{
+ 
+color: rgb(193, 106, 7);
+
+}
+
+.titulo{
+    color: rgb(74, 41, 0);
+    font-size: 42px;
+font-family: Copperplate;
+top: 1;
+    left: 1;
+}
+
+.buscar {
+    top: 1;
+    left: 1;
+}
+
+
 .categoria{
     text-align: center;
     list-style-position: inside;
@@ -42,6 +74,8 @@ border-radius: 30%;
 
 body{
     text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(53, 24, 3);
 }
 
 table{
@@ -57,4 +91,15 @@ textarea{
 .redes{
     font-family: Copperplate;
 
+}
+
+header nav ul li a {
+
+    color: rgb(243, 164, 28);
+    text-decoration: none;
+    display: inline-block
+}
+
+header nav ul li{
+    list-style: none;
 }
